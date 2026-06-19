@@ -2,7 +2,7 @@ name: Kiran Kumar
   
 on:
  push:
-  branches: [ mian ]
+  branches: [ main ]
 
 jobs:
  Demo:
