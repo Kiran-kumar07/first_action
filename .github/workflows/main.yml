@@ -1,0 +1,14 @@
+name: Kiran Kumar 
+on:
+  push:
+    branches: [ main ]
+ jobs:
+   Demo:
+       runs-on: ubuntu-latest
+
+       steps:
+        - name: Greeting
+          run: echo "first github action" 
+  
+   
+ 
